@@ -1,0 +1,74 @@
+.bgimg{
+	background-image: url('../img/audi3.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+    height:660px;
+}
+.headerset{
+	padding-top: 200px;
+	box-sizing: border-box;
+}
+.headerset h3{
+	font-size: 30px;
+    
+
+}
+.headerset h2{
+	font-size: 45px;
+
+}
+.img{
+	background-image: url('/img/audi.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	column-width: 100%
+    height:200px;
+}
+
+
+/*
+.................................ourservices...........................*/
+
+.ourservices{
+	padding: :100px 0px 60 px;
+	height: 500px
+}
+.ourservices
+{
+	font-weight: bold;
+}
+.imgsetting
+{
+	margin: 80 px;
+   border-radius: 50%;
+   height: 100px;
+   width:100px;
+}
+.rowsetting
+{
+
+	margin: 80px 0px;
+}
+.fa-shopping-cart
+
+{
+	margin-top: 15px;
+}
+.rowsetting p{
+	padding: 10px;
+	color:grey;
+
+}
+.rowsetting h2{
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 30px;
+}
+ .city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
